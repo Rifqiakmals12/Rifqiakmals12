@@ -1,4 +1,4 @@
-## Hi there, I'm Rifqi Akmal Saputra 👋
+# Hi there, I'm Rifqi Akmal Saputra 👋
 
 ### 👩‍💻 Languages & Library
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
