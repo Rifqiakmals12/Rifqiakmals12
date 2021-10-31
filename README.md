@@ -13,12 +13,14 @@
 ![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)&nbsp;
 ![Colab](	https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
+![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)&nbsp;
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Rifqiakmals12&show_icons=true)
 
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Rifqiakmals12&layout=compact)
+![github streak](https://github-readme-streak-stats.herokuapp.com/?user=Rifqiakmals12)
 
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Rifqiakmals12&layout=compact)
 
 ### 👨 Connect with me
 <a href="https://github.com/Rifqiakmals12"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
