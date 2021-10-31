@@ -22,8 +22,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://rifqiakmals12.github.io/Rifqiakmals.github.io/"><img src="https://img.shields.io/badge/-rifqiakmals.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/rifqi-akmal-saputra-2483b51b6/"><img src="https://img.shields.io/badge/-rifqi akmal saputra-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:rifqias1212@gmail.com"><img src="https://img.shields.io/badge/-rifqias1212@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/rifqiakmals/"><img src="https://img.shields.io/badge/-@rifqiakmals-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://rifqiakmals12.github.io/Rifqiakmals.github.io/"><img src="	https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rifqi-akmal-saputra-2483b51b6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:rifqias1212@gmail.com"><img src="https://https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/rifqiakmals/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
