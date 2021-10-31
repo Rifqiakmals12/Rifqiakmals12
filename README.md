@@ -10,10 +10,8 @@
 ![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 
-<a href="https://github.com/Rifqiakmals12">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rifqiakmals12"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rifqiakmals12"/>
-</a>
+![github stats](https://github-readme-stats.vercel.app/api?username=Rifqiakmals12&show_icons=true)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Rifqiakmals12&layout=compact)
 
 ### 👨👩 Social
 <a href="https://github.com/Rifqiakmals12"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
