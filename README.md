@@ -1,4 +1,4 @@
-# Hi there, I'm Rifqi Akmal Saputra 👋
+# Hi there, I'm Rifqi Akmal Saputra <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 ### 👩‍💻 Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
