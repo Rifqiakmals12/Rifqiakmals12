@@ -15,8 +15,6 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Rifqiakmals12&show_icons=true)
 
-![github streak](https://github-readme-streak-stats.herokuapp.com/?user=Rifqiakmals12)
-
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Rifqiakmals12&layout=compact)
 
 ### 🔗 Connect with me
