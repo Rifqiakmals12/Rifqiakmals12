@@ -13,10 +13,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)&nbsp;
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Rifqiakmals12&show_icons=true)
-
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Rifqiakmals12&layout=compact)
-
 ### 🔗 Connect with me
 <a href="https://rifqiakmals12.github.io/Rifqiakmals.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 <a href="https://github.com/Rifqiakmals12"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
